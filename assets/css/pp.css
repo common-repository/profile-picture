@@ -1,0 +1,24 @@
+/*!
+ * PP v1.0.0 (http://aruljayaraj.com) 
+*/
+@charset "utf-8";
+.pp-container{
+	margin: 0 auto;
+	width:auto;
+	padding:0;	
+}
+.pp-picture{
+	margin:0;
+	padding:0;
+	position:relative;
+}
+.pp_delete{
+	bottom: 10px;
+    left: 120px;
+    position: absolute;;	
+	border:0 !important;
+	cursor:pointer;
+	background: #333 none repeat scroll 0 0;
+	text-decoration:none;	
+}
+
